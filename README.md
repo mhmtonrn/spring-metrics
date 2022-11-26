@@ -10,7 +10,7 @@ install maven
 
 run images
 
-````aidl
+````bash
  cd doc
  docker-compose -f docker-compose.yml up 
 ````
